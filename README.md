@@ -6,10 +6,6 @@ I am a Marketer turned Data Science Enthusiast 📊 with 5 years of hands-on exp
 ## 🚀 Transitioning to Data Science 📈
  Excited to embark on a new journey in Data Science, ⚡leveraging my analytical mindset and problem-solving skills to extract meaningful insights from data. Currently diving deep into machine learning, data analysis and visualization.
 
- ## 
-!({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
-})
-
 ## 🛠️ Skills
 + Data Analysis
 + Machine Learning
