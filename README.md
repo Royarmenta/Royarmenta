@@ -22,4 +22,4 @@ Continuously expanding my knowledge in:
 + Enhancing my code
 
 ## 🤝 Let's Connect
-Excited about the intersection of engineering and data science! Open to collaborations, discussions, and learning opportunities.
+Excited about the intersection of mkt and data science! Open to collaborations, discussions, and learning opportunities.
