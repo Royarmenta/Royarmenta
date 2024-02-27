@@ -9,6 +9,8 @@ I am a Marketer turned Data Science Enthusiast 📊 with 5 years of hands-on exp
 ## 🎯Some technologies I use
 Languages:
 
+
+  <img src="{https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white}" />
    ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
  
 
